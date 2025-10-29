@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I am a passionate Fullstack Ruby on Rails developer with 4 years of experience building scalable and efficient web applications. My core expertise includes backend and frontend development, API integrations, and real-time features. I have successfully designed, developed, and deployed solutions used in critical sectors such as education and government services.
+I am a passionate Fullstack Ruby on Rails developer with 5 years of experience building scalable and efficient web applications. My core expertise includes backend and frontend development, API integrations, and real-time features. I have successfully designed, developed, and deployed solutions used in critical sectors such as education and government services.
 
 - **Backend:** Ruby on Rails (RESTful APIs, ActionCable, Sidekiq, Devise, Pundit)  
 - **Frontend:** Vue.js, Nuxt.js, Stimulus, Tailwind CSS, Bulma  
