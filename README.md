@@ -10,7 +10,6 @@ With **5+ years of professional experience**, I have contributed to and led the 
 **Email:** [jamilbachardyahaya@gmail.com](mailto:jamilbachardyahaya@gmail.com)
 **LinkedIn:** [linkedin.com/in/bachardjamil](https://linkedin.com/in/bachardjamil)
 
----
 
 ## About Me
 
@@ -24,7 +23,6 @@ With **5+ years of professional experience**, I have contributed to and led the 
 * Cloud infrastructure and production deployments
 * Experience building solutions for government institutions and private companies
 
----
 
 ## Tech Stack
 
@@ -82,7 +80,6 @@ With **5+ years of professional experience**, I have contributed to and led the 
 * Authentication and OTP systems
 * OCR and document processing
 
----
 
 ## Selected Projects
 
@@ -101,7 +98,6 @@ A large-scale platform supporting the management of the national Baccalaureate e
 * Secure authentication and OTP mechanisms
 * Designed to handle high traffic during critical examination periods
 
----
 
 ### CAIMA — Agricultural Input Sales & Distribution Platform
 
@@ -115,7 +111,6 @@ A digital platform supporting the management and distribution of agricultural in
 * Sales and operational monitoring
 * Deployment, user training and technical support
 
----
 
 ### Government Administrative & Exoneration Platform
 
@@ -128,7 +123,6 @@ A platform designed to digitize administrative workflows and manage exemption re
 * Payment and transaction processing
 * Designed for reliability and high-volume operations
 
----
 
 ### Transport Management Platform
 
@@ -140,7 +134,6 @@ A digital platform developed for transportation companies to streamline their op
 * Role-based access and user management
 * Operational monitoring and information tracking
 
----
 
 ### Intelligent Document Archiving & Management Platform
 
@@ -154,7 +147,6 @@ A digital archiving solution designed to simplify document storage, processing a
 * Fast access to archived documents
 * Improved document traceability and management
 
----
 
 ### Education & Administrative Management Platforms
 
@@ -167,7 +159,6 @@ Development of web applications supporting educational institutions and administ
 * Authentication and authorization
 * Production deployment and maintenance
 
----
 
 ## Areas of Expertise
 
@@ -184,7 +175,6 @@ Development of web applications supporting educational institutions and administ
 * Cloud infrastructure and object storage
 * Application deployment and production operations
 
----
 
 ## Engineering Philosophy
 
@@ -194,7 +184,6 @@ I enjoy solving complex technical challenges and transforming business requireme
 
 My experience spans the full development lifecycle — from architecture and backend development to frontend implementation, API integrations, cloud infrastructure, deployment and production maintenance.
 
----
 
 ## Contact
 
