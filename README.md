@@ -26,59 +26,17 @@ With **5+ years of professional experience**, I have contributed to and led the 
 
 ## Tech Stack
 
-### Backend
+**Backend:** Ruby · Ruby on Rails · REST APIs · ActionCable · WebSockets · Sidekiq · Devise · Pundit
 
-* Ruby
-* Ruby on Rails
-* RESTful APIs
-* ActionCable / WebSockets
-* Sidekiq
-* Devise
-* Pundit
+**Frontend:** Vue.js · Nuxt.js · Stimulus · Turbo · JavaScript · Tailwind CSS · Bulma
 
-### Frontend
+**Database & Storage:** PostgreSQL · PostGIS · Redis · AWS S3
 
-* Vue.js
-* Nuxt.js
-* Stimulus
-* Turbo
-* JavaScript
-* Tailwind CSS
-* Bulma
+**Infrastructure & Deployment:** Docker · Kamal · Dokku · Hetzner · DigitalOcean · Heroku · Vercel · Cloudflare · CI/CD
 
-### Database & Storage
+**Testing & Development:** RSpec · Capybara · Git · GitHub
 
-* PostgreSQL
-* PostGIS
-* Redis
-* AWS S3
-
-### Infrastructure & Deployment
-
-* Docker
-* Kamal
-* Dokku
-* Hetzner
-* DigitalOcean
-* Heroku
-* Vercel
-* Cloudflare
-* CI/CD
-
-### Testing & Development
-
-* RSpec
-* Capybara
-* Git
-* GitHub
-
-### Integrations
-
-* Payment gateways
-* SMS APIs
-* External REST APIs
-* Authentication and OTP systems
-* OCR and document processing
+**Integrations:** Payment Gateways · SMS APIs · REST APIs · Authentication · OTP · OCR · Document Processing
 
 
 ## Selected Projects
@@ -98,7 +56,6 @@ A large-scale platform supporting the management of the national Baccalaureate e
 * Secure authentication and OTP mechanisms
 * Designed to handle high traffic during critical examination periods
 
-
 ### CAIMA — Agricultural Input Sales & Distribution Platform
 
 A digital platform supporting the management and distribution of agricultural inputs across multiple regions.
@@ -111,7 +68,6 @@ A digital platform supporting the management and distribution of agricultural in
 * Sales and operational monitoring
 * Deployment, user training and technical support
 
-
 ### Government Administrative & Exoneration Platform
 
 A platform designed to digitize administrative workflows and manage exemption requests.
@@ -123,7 +79,6 @@ A platform designed to digitize administrative workflows and manage exemption re
 * Payment and transaction processing
 * Designed for reliability and high-volume operations
 
-
 ### Transport Management Platform
 
 A digital platform developed for transportation companies to streamline their operational activities.
@@ -133,7 +88,6 @@ A digital platform developed for transportation companies to streamline their op
 * Centralized data management
 * Role-based access and user management
 * Operational monitoring and information tracking
-
 
 ### Intelligent Document Archiving & Management Platform
 
@@ -146,7 +100,6 @@ A digital archiving solution designed to simplify document storage, processing a
 * Intelligent document retrieval
 * Fast access to archived documents
 * Improved document traceability and management
-
 
 ### Education & Administrative Management Platforms
 
@@ -178,7 +131,7 @@ Development of web applications supporting educational institutions and administ
 
 ## Engineering Philosophy
 
-> Building reliable, scalable and practical software for real-world problems.
+Building reliable, scalable and practical software for real-world problems.
 
 I enjoy solving complex technical challenges and transforming business requirements into reliable software solutions.
 
@@ -187,6 +140,6 @@ My experience spans the full development lifecycle — from architecture and bac
 
 ## Contact
 
-**Email:** [jamilbachardyahaya@gmail.com](mailto:jamilbachardyahaya@gmail.com)
+**Email:** [jamilbachardyahaya@gmail.com](mailto:jamilbachardyahaya.com)
 **Phone:** +227 97 65 38 01
 **LinkedIn:** [linkedin.com/in/bachardjamil](https://linkedin.com/in/bachardjamil)
